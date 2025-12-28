@@ -1,0 +1,1 @@
+Godigo trata-se apanenas de um teste para funcionamento do arduino 33 ble sense no computador , abilitando permiçoẽs de portas (USB), e macros especificas para a placa arduino que será usada. 

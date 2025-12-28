@@ -1,0 +1,1 @@
+Codigo resposanvel de conectar com a rede wifi, e fazer uma requisição  a um site, mostrando o resultado no visor serial

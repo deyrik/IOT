@@ -1,0 +1,1 @@
+Codigo esta conectando com arduino Ble sense 33 atraves do modulo de bluetooth

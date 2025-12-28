@@ -1,0 +1,1 @@
+Codigo para testar a conecção do  modulo ESP32 com a rede wifi.
