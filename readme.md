@@ -12,5 +12,12 @@ Ele inclui exemplos de código, documentação e recursos úteis  que usei para 
 - Uso computacional e proveitoso de espaço (memoria)
 - Modelos de aprendizagem de maquina para aparelhos IOT (memoria limitada)
 
+## Utility 
+Algumas tecnologias e ferramentas foram usadas para um melhor resultado. 
+
+- Edge Impulse (para treinar modelo)
+- Tensor Flow ( para biblioteca de ML- machine learning)
+- Kaggle ( site de data base - muito bom  por sinal)
+
 
 
