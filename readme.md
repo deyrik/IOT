@@ -1,5 +1,5 @@
 Este repositoro trata-se de um projeto de exemplo para demonstrar boas práticas em desenvolvimento para IoT. 
-Ele inclui exemplos de código, documentação e recursos úteis  que usei para aprender e desenvolvedores soluções IoT seguras e eficiente.
+Ele inclui exemplos de código, documentação e recursos úteis  que usei para aprender e desenvolvedores soluções IoT seguras e eficiente. E no final um ```Projeto IoT```
 
 ## Conteúdo
 - Uso dos sensores e de total capacidade das placas disponibilizadas 
@@ -18,6 +18,12 @@ Algumas tecnologias e ferramentas foram usadas para um melhor resultado.
 - Edge Impulse (para treinar modelo)
 - Tensor Flow ( para biblioteca de ML- machine learning)
 - Kaggle ( site de data base - muito bom  por sinal)
+## Projeto Final – Babá Eletrônica
+
+Projeto desenvolvido aplicando os conceitos da disciplina de Internet das Coisas.
+
+➡️ Repositório do projeto completo:  
+https://github.com/deyrik/Smart-Baby-Monitor-IOT
 
 
 
